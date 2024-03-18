@@ -1,5 +1,5 @@
 # Data Visualisation: Human Resource Data
-[Code](https://github.com/SoumyaO/data-viz-equitable-pay-analysis/blob/main/Group%206%20_SMM635_code.py) | [Data](https://github.com/SoumyaO/data-viz-equitable-pay-analysis/tree/main/dataset) | [Report](https://github.com/SoumyaO/data-viz-equitable-pay-analysis/blob/main/Group%206_SMM635_Executive%20Summary.pdf)
+[Code](https://github.com/SoumyaO/data-viz-equitable-pay-analysis/blob/main/Group%206%20_SMM635_code.py) | [Data](https://github.com/SoumyaO/data-viz-equitable-pay-analysis/tree/main/dataset) | [Report](https://github.com/SoumyaO/data-viz-equitable-pay-analysis/blob/main/Report.pdf)
 
 ### Contributors
 [Soumya Ogoti](https://github.com/SoumyaO)  
